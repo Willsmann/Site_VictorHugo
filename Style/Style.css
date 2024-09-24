@@ -1,0 +1,25 @@
+  /* Estilo para o corpo da pagina */
+body{
+ background-color: teal; /* Define a cor do fundo da página */
+ font-family: 'Roboto' sans-serif; /* Define a fonte da pagina como Roboto*/
+ margin: 0; /* Remove a margem padrão do corpo */
+ padding: 10px; /* Remove o Padding padrão do corpo */
+}
+
+/* Estilo para a área principal */
+main{
+ background-color: lightgray; /* Define a cor da area do fundo principal como cinza claro */
+ width: 80; /*define a largura da área principal como 80% de largura da página */
+ margin: 0 auto; /* Centraliza a área principal horizontalmente*/
+ padding: 30px; /* Adiciona um Padding de 20px ao redor da area principal */
+ box-sizing: border-box; /* Inclui um padding e border no tamanho total do elemento */
+ margin-bottom: 50px;
+}
+
+ footer{
+   margin-top: 35px;
+   margin: auto;
+   background-color: aliceblue;
+   font-size: 12px;
+   width: 500px;
+ }
